@@ -1,0 +1,36 @@
+X+++ Compiler - Version 2.0 - 2017
+Reading from file /home/marcos/Documentos/compiladores/Trabalho/Entrega1/exemplos/error_test.java . . .
+package  <IDENT> 52
+compilers  <IDENT> 52
+;  <SEMICOLON> 61
+public  <PUBLIC> 18
+class  <CLASS> 13
+error_test  <IDENT> 52
+{  <LBRACE> 57
+####  <INVALID_LEXICAL> 77
+=  <ASSIGN> 65
+12  <int_constant> 45
+;  <SEMICOLON> 61
+byte  <BYTE> 27
+b  <IDENT> 52
+=  <ASSIGN> 65
+5  <int_constant> 45
+;  <SEMICOLON> 61
+short  <SHORT> 28
+s  <IDENT> 52
+=  <ASSIGN> 65
+"a"  <string_constant> 47
+;  <SEMICOLON> 61
+string  <STRING> 24
+text  <IDENT> 52
+=  <ASSIGN> 65
+34  <int_constant> 45
+;  <SEMICOLON> 61
+boolean  <BOOLEAN> 26
+b  <IDENT> 52
+=  <ASSIGN> 65
+null  <null_constant> 50
+;  <SEMICOLON> 61
+}  <RBRACE> 58
+  <EOF> 0
+1 Lexical Errors found
